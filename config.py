@@ -1,3 +1,2 @@
 #Config.py
-#Pls no steal, I am just lowly code monkey
-api_key="05bab63504257d837db2c2d2c818fbd8"
+api_key=<"Just enter whichever api key is generated from the site's auth token">
